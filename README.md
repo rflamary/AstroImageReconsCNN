@@ -3,7 +3,8 @@ Astronomical Image Reconstruction with Convolutional Neural Networks
 
 This repository contains the code used for the numerical experiments of the foillowing paper:
 
-    R. Flamary, "Astronomical image reconstruction with convolutional neural networks", European Conference on Signal Processing (EUSIPCO), 2017.
+
+R. Flamary, "[Astronomical image reconstruction with convolutional neural networks](https://arxiv.org/pdf/1612.04526.pdf)", European Conference on Signal Processing (EUSIPCO), 2017.
 
 
 The code is under MIT Licence but please refer to and cite the above paper if you use it for academic purposes.
