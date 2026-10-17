@@ -139,7 +139,7 @@ pl.title('1-CNN',fontsize=fs,y=0.95)
 pl.axis("off")
 
 pl.subplot(szsb[0],szsb[1],8)
-pl.imshow(sel(Icnn0),cmap='gray')
+pl.imshow(sel(Icnn),cmap='gray')
 pl.title('3-CNN',fontsize=fs,y=0.95)
 pl.axis("off")
 pl.subplots_adjust(wspace=0.0,hspace=0.15)
